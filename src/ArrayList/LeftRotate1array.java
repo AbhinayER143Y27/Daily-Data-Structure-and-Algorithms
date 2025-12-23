@@ -1,8 +1,6 @@
 package ArrayList;
 import java.util.*;
 
-
-
 public class LeftRotate1array {
 
     ArrayList<Integer> arraylist = new ArrayList<>();
