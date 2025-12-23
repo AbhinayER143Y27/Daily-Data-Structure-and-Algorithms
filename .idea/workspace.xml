@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="36K9Sys73QCqayH0nTT1pgfyVVQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CharFreq.executor": "Run",
+    "Application.CopyAllElem.executor": "Run",
+    "Application.DiffLowHig.executor": "Run",
+    "Application.DiffOfLandS.executor": "Run",
+    "Application.EvenIndex.executor": "Run",
+    "Application.FirstOccur.executor": "Run",
+    "Application.LeftRotate1array.executor": "Run",
+    "Application.Left_Rot_2pt.executor": "Run",
+    "Application.Left_Rotate.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.reverse_arr.executor": "Run",
+    "Application.sortedandRot.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "/Users/abhinayrana/Documents/codeforsuccess/SpringBoot/Daily_DSA/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="" />
+      <created>1764744401754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764744401754</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayList/sortedandRot.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
