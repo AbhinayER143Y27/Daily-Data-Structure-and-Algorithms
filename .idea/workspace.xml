@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/MinTheMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,29 +40,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CharFreq.executor": "Run",
-    "Application.CopyAllElem.executor": "Run",
-    "Application.DiffLowHig.executor": "Run",
-    "Application.DiffOfLandS.executor": "Run",
-    "Application.EvenIndex.executor": "Run",
-    "Application.FirstOccur.executor": "Run",
-    "Application.LeftRotate1array.executor": "Run",
-    "Application.Left_Rot_2pt.executor": "Run",
-    "Application.Left_Rotate.executor": "Run",
-    "Application.LinearSearch.executor": "Run",
-    "Application.MinTheMax.executor": "Debug",
-    "Application.reverse_arr.executor": "Run",
-    "Application.sortedandRot.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/abhinayrana/Documents/codeforsuccess/SpringBoot/Daily_DSA/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CharFreq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyAllElem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiffLowHig.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiffOfLandS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstOccur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftRotate1array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Left_Rot_2pt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Left_Rotate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinTheMax.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.reverse_arr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortedandRot.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/abhinayrana/Documents/codeforsuccess/SpringBoot/Daily_DSA/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="" />
