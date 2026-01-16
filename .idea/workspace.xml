@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Solved the 169th problem&quot;">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/TwoThreeEight.java" afterDir="false" />
+    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Solved the 238th problem&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,14 +106,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768466447223</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;Solved the 238th problem&quot;">
+      <option name="closed" value="true" />
+      <created>1768540298497</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768540298497</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Solved the 55th problem on jump game&quot;" />
     <MESSAGE value="&quot;Solved the 162th problem&quot;" />
     <MESSAGE value="&quot;Solved the 169th problem&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solved the 169th problem&quot;" />
+    <MESSAGE value="&quot;Solved the 238th problem&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solved the 238th problem&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
