@@ -1,6 +1,6 @@
 package binary_search;
 
-public class ThreeFour {
+public class ThreeFourProblem {
     class Solution {
         public int[] searchRange(int[] nums, int target) {
             int high = nums.length - 1;
