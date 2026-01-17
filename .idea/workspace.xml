@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Solved the 238th problem&quot;">
+    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Solved the 34th problem&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768540298497</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;Solved the 238th problem&quot;">
+      <option name="closed" value="true" />
+      <created>1768542364085</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768542364085</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;Solved the 34th problem&quot;">
+      <option name="closed" value="true" />
+      <created>1768542554885</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768542554885</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,7 +138,8 @@
     <MESSAGE value="&quot;Solved the 162th problem&quot;" />
     <MESSAGE value="&quot;Solved the 169th problem&quot;" />
     <MESSAGE value="&quot;Solved the 238th problem&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solved the 238th problem&quot;" />
+    <MESSAGE value="&quot;Solved the 34th problem&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solved the 34th problem&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
