@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Solved 153th question &quot;">
+    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Solved how many time the array was rotated question&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "Application.MinTheMax.executor": "Debug",
     "Application.RotationCount.executor": "Run",
     "Application.SearchRotatedArray.executor": "Debug",
+    "Application.SingleElement.executor": "Debug",
     "Application.TwoThreeFiveEight.executor": "Debug",
     "Application.random$SearchRotatedArray.executor": "Debug",
     "Application.reverse_arr.executor": "Run",
@@ -218,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768741089313</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="&quot;Solved how many time the array was rotated question&quot;">
+      <option name="closed" value="true" />
+      <created>1768796440065</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1768796440065</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,7 +252,8 @@
     <MESSAGE value="&quot;Solved 33th question as well as custom question know as Floor Ceil &quot;" />
     <MESSAGE value="&quot;Solved 81th question &quot;" />
     <MESSAGE value="&quot;Solved 153th question &quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solved 153th question &quot;" />
+    <MESSAGE value="&quot;Solved how many time the array was rotated question&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solved how many time the array was rotated question&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -252,6 +262,11 @@
           <url>file://$PROJECT_DIR$/src/ArrayList/MinTheMax.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary_search/SingleElement.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
