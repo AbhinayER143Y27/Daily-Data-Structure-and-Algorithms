@@ -1,6 +1,6 @@
 package ArrayList;
 
-public class sortedandRot {
+public class OneSevenFiveTwo {
     public static void main(String[] args) {
         Value solver = new Value();
 
@@ -26,6 +26,10 @@ class Value {
             if(nums[i] > nums[i+1])
             {
                 counter++;
+                if(counter > 1)
+                {
+                    return false;
+                }
             }
         }
         if(nums[nums.length - 1] > nums[0])
