@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Solved 1482th question&quot;">
+    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Improved the solution for the 189th question&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/sortedandRot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList/sortedandRot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,8 @@
     &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
     &quot;Application.MinDaysBouquets.executor&quot;: &quot;Debug&quot;,
     &quot;Application.MinTheMax.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NewtonRaphsonMethod.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Debug&quot;,
     &quot;Application.RotationCount.executor&quot;: &quot;Run&quot;,
     &quot;Application.SearchRotatedArray.executor&quot;: &quot;Debug&quot;,
     &quot;Application.SingleElement.executor&quot;: &quot;Debug&quot;,
@@ -261,7 +262,31 @@
       <option name="project" value="LOCAL" />
       <updated>1769063728042</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="&quot;Improved the solution for the 1752th question&quot;">
+      <option name="closed" value="true" />
+      <created>1769144419941</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1769144419941</updated>
+    </task>
+    <task id="LOCAL-00020" summary="&quot;Improved the solution for the 189th question&quot;">
+      <option name="closed" value="true" />
+      <created>1769153316391</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1769153316391</updated>
+    </task>
+    <task id="LOCAL-00021" summary="&quot;Improved the solution for the 189th question&quot;">
+      <option name="closed" value="true" />
+      <created>1769487180335</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1769487180335</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,7 +316,9 @@
     <MESSAGE value="&quot;Solved 69th question&quot;" />
     <MESSAGE value="&quot;Solved 875th question&quot;" />
     <MESSAGE value="&quot;Solved 1482th question&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solved 1482th question&quot;" />
+    <MESSAGE value="&quot;Improved the solution for the 1752th question&quot;" />
+    <MESSAGE value="&quot;Improved the solution for the 189th question&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Improved the solution for the 189th question&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -300,6 +327,15 @@
           <url>file://$PROJECT_DIR$/src/ArrayList/MinTheMax.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/NewtonRaphsonMethod.java</url>
+          <line>12</line>
+          <properties class="NewtonRaphsonMethod" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
