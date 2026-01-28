@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Solved 1482th question&quot;">
+    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Started the new Data Structures&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/sortedandRot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList/sortedandRot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,9 @@
     &quot;accountId&quot;: &quot;79941aeb-c8f5-47a0-9098-13bf92dde27e&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -75,7 +77,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.random$SearchRotatedArray">
+  <component name="RunManager" selected="Application.SearchRotatedArray">
     <configuration name="SearchRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binary_search.SearchRotatedArray" />
       <module name="Daily_DSA" />
@@ -261,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769063728042</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="&quot;Started the new Data Structures&quot;">
+      <option name="closed" value="true" />
+      <created>1769576589734</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1769576589734</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,7 +301,8 @@
     <MESSAGE value="&quot;Solved 69th question&quot;" />
     <MESSAGE value="&quot;Solved 875th question&quot;" />
     <MESSAGE value="&quot;Solved 1482th question&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solved 1482th question&quot;" />
+    <MESSAGE value="&quot;Started the new Data Structures&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Started the new Data Structures&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
