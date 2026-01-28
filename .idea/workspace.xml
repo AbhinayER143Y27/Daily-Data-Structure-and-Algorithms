@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Solved 1482th question&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/sortedandRot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList/sortedandRot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,9 @@
     &quot;accountId&quot;: &quot;79941aeb-c8f5-47a0-9098-13bf92dde27e&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
