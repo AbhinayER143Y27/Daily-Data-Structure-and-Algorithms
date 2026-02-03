@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Started the new Data Structures&quot;">
+    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Did the 206th question &quot;">
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/LinkedListCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/EightSevenSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/EightSevenSix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/TestingLinkList.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +60,7 @@
     &quot;Application.Left_Rot_2pt.executor&quot;: &quot;Run&quot;,
     &quot;Application.Left_Rotate.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListCRUD.executor&quot;: &quot;Run&quot;,
     &quot;Application.MinDaysBouquets.executor&quot;: &quot;Debug&quot;,
     &quot;Application.MinTheMax.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ReverseList.executor&quot;: &quot;Debug&quot;,
@@ -282,7 +282,23 @@
       <option name="project" value="LOCAL" />
       <updated>1769577354155</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="&quot;Started the new Data Structures&quot;">
+      <option name="closed" value="true" />
+      <created>1769681031084</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1769681031084</updated>
+    </task>
+    <task id="LOCAL-00022" summary="&quot;Did the 206th question &quot;">
+      <option name="closed" value="true" />
+      <created>1769681090744</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1769681090744</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,7 +329,8 @@
     <MESSAGE value="&quot;Solved 875th question&quot;" />
     <MESSAGE value="&quot;Solved 1482th question&quot;" />
     <MESSAGE value="&quot;Started the new Data Structures&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Started the new Data Structures&quot;" />
+    <MESSAGE value="&quot;Did the 206th question &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Did the 206th question &quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -331,6 +348,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/linkedlist/LinkedListCRUD.java</url>
+          <line>108</line>
+          <properties class="linkedlist.LinkedListCRUD" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
