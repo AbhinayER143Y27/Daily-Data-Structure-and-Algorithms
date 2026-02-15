@@ -24,6 +24,11 @@ public class DATL {
 
     private static ListNode deletelast(ListNode head)
     {
+        if(head == null) return null;
+        if(head.next == null)
+        {
+            return null;
+        }
         ListNode temp = head;
         while(temp.next.next != null)
         {
