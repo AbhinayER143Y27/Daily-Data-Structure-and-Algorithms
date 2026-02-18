@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Did the addition at the last of the single linked list.&quot;">
+    <list default="true" id="266f4e0e-b1a1-4b1f-94e8-91f5f87d03a5" name="Changes" comment="&quot;Did the 141th question for the daily DSA&quot;">
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/MiddleNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/ATSL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/ATSL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/LinkedListCRUD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/DATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/DATM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/TwoOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/TwoOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,44 +49,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ATSF.executor": "Run",
-    "Application.ATSL.executor": "Run",
-    "Application.ATSM.executor": "Run",
-    "Application.CharFreq.executor": "Run",
-    "Application.CopyAllElem.executor": "Run",
-    "Application.DiffLowHig.executor": "Run",
-    "Application.DiffOfLandS.executor": "Run",
-    "Application.EvenIndex.executor": "Run",
-    "Application.FindMinRotated.executor": "Debug",
-    "Application.FirstOccur.executor": "Run",
-    "Application.FloorCeil.executor": "Run",
-    "Application.LeftRotate1array.executor": "Run",
-    "Application.Left_Rot_2pt.executor": "Run",
-    "Application.Left_Rotate.executor": "Run",
-    "Application.LinearSearch.executor": "Run",
-    "Application.LinkedListCRUD.executor": "Run",
-    "Application.MinDaysBouquets.executor": "Debug",
-    "Application.MinTheMax.executor": "Debug",
-    "Application.ReverseList.executor": "Debug",
-    "Application.RotationCount.executor": "Run",
-    "Application.SearchRotatedArray.executor": "Debug",
-    "Application.SingleElement.executor": "Debug",
-    "Application.TwoThreeFiveEight.executor": "Debug",
-    "Application.random$SearchRotatedArray.executor": "Run",
-    "Application.reverse_arr.executor": "Run",
-    "Application.sortedandRot.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/abhinayrana/Documents/codeforsuccess/SpringBoot/Daily_DSA/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ATSF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ATSL.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ATSM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharFreq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyAllElem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DATL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DATM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DATSF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiffLowHig.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiffOfLandS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMinRotated.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FirstOccur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloorCeil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftRotate1array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Left_Rot_2pt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Left_Rotate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListCRUD.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListCycle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeDebug.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MinDaysBouquets.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MinTheMax.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PalindromeList.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReverseList.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RotationCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRotatedArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SingleElement.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TwoThreeFiveEight.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.random$SearchRotatedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverse_arr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortedandRot.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/abhinayrana/Documents/codeforsuccess/SpringBoot/Daily_DSA/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.random$SearchRotatedArray">
     <configuration name="SearchRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binary_search.SearchRotatedArray" />
       <module name="Daily_DSA" />
@@ -334,7 +342,71 @@
       <option name="project" value="LOCAL" />
       <updated>1770544749148</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="&quot;Did the addition at the last of the single linked list.&quot;">
+      <option name="closed" value="true" />
+      <created>1771054601301</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1771054601301</updated>
+    </task>
+    <task id="LOCAL-00028" summary="&quot;Did some more changes in the previous files.&quot;">
+      <option name="closed" value="true" />
+      <created>1771054630735</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1771054630735</updated>
+    </task>
+    <task id="LOCAL-00029" summary="&quot;Did the deletion from the begging of a ListNode.&quot;">
+      <option name="closed" value="true" />
+      <created>1771057229372</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1771057229372</updated>
+    </task>
+    <task id="LOCAL-00030" summary="&quot;Did the deletion at the middle of a ListNode.&quot;">
+      <option name="closed" value="true" />
+      <created>1771135904198</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1771135904198</updated>
+    </task>
+    <task id="LOCAL-00031" summary="&quot;Did the deletion at the last of a ListNode.&quot;">
+      <option name="closed" value="true" />
+      <created>1771138135785</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1771138135785</updated>
+    </task>
+    <task id="LOCAL-00032" summary="&quot;Enhanced the last code  with more error corrections steps.&quot;">
+      <option name="closed" value="true" />
+      <created>1771138414644</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1771138414644</updated>
+    </task>
+    <task id="LOCAL-00033" summary="&quot;Did the 21th question on the leetcode.&quot;">
+      <option name="closed" value="true" />
+      <created>1771239278792</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1771239278792</updated>
+    </task>
+    <task id="LOCAL-00034" summary="&quot;Did the 141th question for the daily DSA&quot;">
+      <option name="closed" value="true" />
+      <created>1771306985876</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1771306985876</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,9 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Solved the 55th problem on jump game&quot;" />
-    <MESSAGE value="&quot;Solved the 162th problem&quot;" />
-    <MESSAGE value="&quot;Solved the 169th problem&quot;" />
     <MESSAGE value="&quot;Solved the 238th problem&quot;" />
     <MESSAGE value="&quot;Solved the 34th problem&quot;" />
     <MESSAGE value="&quot;Solved the 35th problem&quot;" />
@@ -370,7 +439,14 @@
     <MESSAGE value="&quot;Did the addition at the beginning of the single linked list.&quot;" />
     <MESSAGE value="&quot;Did the addition at the middle of the single linked list.&quot;" />
     <MESSAGE value="&quot;Did the addition at the last of the single linked list.&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Did the addition at the last of the single linked list.&quot;" />
+    <MESSAGE value="&quot;Did some more changes in the previous files.&quot;" />
+    <MESSAGE value="&quot;Did the deletion from the begging of a ListNode.&quot;" />
+    <MESSAGE value="&quot;Did the deletion at the middle of a ListNode.&quot;" />
+    <MESSAGE value="&quot;Did the deletion at the last of a ListNode.&quot;" />
+    <MESSAGE value="&quot;Enhanced the last code  with more error corrections steps.&quot;" />
+    <MESSAGE value="&quot;Did the 21th question on the leetcode.&quot;" />
+    <MESSAGE value="&quot;Did the 141th question for the daily DSA&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Did the 141th question for the daily DSA&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -388,6 +464,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/linkedlist/ToPtactise/MergeDebug.java</url>
+          <line>49</line>
+          <properties class="linkedlist.ToPtactise.MergeDebug">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/linkedlist/ToPtactise/PalindromeList.java</url>
+          <line>6</line>
+          <properties class="linkedlist.ToPtactise.PalindromeList" method="isPalindrome">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
