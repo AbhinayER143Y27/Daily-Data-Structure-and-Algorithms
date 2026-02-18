@@ -45,7 +45,7 @@ public class DATM {
 
     }
 
-    private static void printList(ListNode head)
+     static void printList(ListNode head)
     {
         ListNode temp = head;
         while(temp != null)
@@ -55,7 +55,7 @@ public class DATM {
         }
         System.out.println("Null");
     }
-    private static ListNode addon(ListNode head, int value)
+    static ListNode addon(ListNode head, int value)
     {
         ListNode newNode = new ListNode(value);
 
