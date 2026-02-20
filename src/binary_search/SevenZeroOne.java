@@ -1,4 +1,4 @@
-package binary;
+package binary_search;
 
 public class SevenZeroOne {
 
