@@ -11,7 +11,6 @@ class Solution {
                 stack.append(c);
             }
         }
-
         return stack.toString();
     }
 }
