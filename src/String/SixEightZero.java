@@ -15,7 +15,7 @@ public class SixEightZero {
                 left++;
                 right--;
             }
-            return true; //i think this return is to bypass the warning of the compiler because the actual true values will be in the if statement;
+            return true;
         }
         private boolean checkPalindrome(String s, int start, int end)
         {
