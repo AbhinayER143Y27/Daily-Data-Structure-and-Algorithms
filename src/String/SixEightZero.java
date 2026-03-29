@@ -1,0 +1,34 @@
+package String;
+
+public class SixEightZero {
+    class Solution {
+        public boolean validPalindrome(String s) {
+            int left = 0;
+            int right = s.length() - 1;
+
+            while(left < right)
+            {
+                if(s.charAt(left) != s.charAt(right))
+                {
+                    return checkPalindrome(s,left + 1, right) || checkPalindrome(s,left,right - 1);
+                }
+                left++;
+                right--;
+            }
+            return true; //i think this return is to bypass the warning of the compiler because the actual true values will be in the if statement;
+        }
+        private boolean checkPalindrome(String s, int start, int end)
+        {
+            while(start < end)
+            {
+                if(s.charAt(start) != s.charAt(end))
+                {
+                    return false;
+                }
+                start++;
+                end--;
+            }
+            return true;
+        }
+    }
+}
