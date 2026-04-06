@@ -1,7 +1,7 @@
 package BinaryTree;
 
 public class lowestCommonAncestor {
-    public TreeNode lowestCommonThings(TreeNode root, TreeNode p, TreeNode q)
+    public TreeNode bottomUpApproach(TreeNode root, TreeNode p, TreeNode q)
     {
         if(root == null || p == root || q == root)
         {
