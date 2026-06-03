@@ -8,8 +8,8 @@ public class lowestCommonAncestor {
             return root;
         }
 
-        TreeNode left = lowestCommonThings(root.left , p , q);
-        TreeNode right = lowestCommonThings(root.right, p , q);
+        TreeNode left = bottomUpApproach(root.left , p , q);
+        TreeNode right = bottomUpApproach(root.right, p , q);
 
         if(left != null || right != null)
         {
