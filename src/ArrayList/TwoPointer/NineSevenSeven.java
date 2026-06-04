@@ -12,15 +12,13 @@ public class NineSevenSeven {
                 int rightSqr = nums[right] * nums[right];
                 if(leftSqr > rightSqr)
                 {
-                    nums2[index] = leftSqr;
+                    nums2[index--] = leftSqr;
                     left++;
-                    index--;
                 }
                 else
                 {
-                    nums2[index] = rightSqr;
+                    nums2[index--] = rightSqr;
                     right--;
-                    index--;
                 }
             }
             return nums2;
