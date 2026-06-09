@@ -1,4 +1,4 @@
-package ArrayList.TwoPointer;
+package Patterns.TwoPointer;
 
 public class SevenOneThree {
     class Solution {

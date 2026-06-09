@@ -1,7 +1,4 @@
-package ArrayList.SlidingWindow;
-
-import java.util.Arrays;
-import java.util.Arrays;
+package Patterns.SlidingWindow;
 
 public class MaxSumSubarray {
 

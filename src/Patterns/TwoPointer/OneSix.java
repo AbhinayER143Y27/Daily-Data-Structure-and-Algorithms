@@ -1,4 +1,4 @@
-package ArrayList.TwoPointer;
+package Patterns.TwoPointer;
 
 import java.util.Arrays;
 

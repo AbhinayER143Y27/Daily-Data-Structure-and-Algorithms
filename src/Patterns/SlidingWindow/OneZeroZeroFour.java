@@ -1,4 +1,4 @@
-package ArrayList.SlidingWindow;
+package Patterns.SlidingWindow;
 
 public class OneZeroZeroFour {
     class Solution {
