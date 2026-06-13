@@ -1,4 +1,4 @@
-package Patterns.FastAndSlowPointer;
+package Patterns.FastAndSlowPointer.LinkedList;
 
 import linkedlist.ListNode;
 
