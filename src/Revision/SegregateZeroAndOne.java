@@ -1,22 +1,41 @@
 package Revision;
 
+import linkedlist.ListNode;
+
 public class SegregateZeroAndOne {
     class Solution {
-        void segregate0and1(int[] arr) {
-            int left = 0;
 
-            for(int right = 0; right < arr.length; right++)
-            {
-                if(arr[right] == 0)
+        /**
+         * Definition for singly-linked list.
+         * public class ListNode {
+         *     int val;
+         *     ListNode next;
+         *     ListNode() {}
+         *     ListNode(int val) { this.val = val; }
+         *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+         * }
+         */
+        class Solution {
+            public ListNode deleteDuplicates(ListNode head) {
+
+                if(head == null || head.next == null)
                 {
-                    int temp = arr[left];
-                    arr[left] = arr[right];
-                    arr[right] = temp;
-
-                    left++;
+                    return head;
                 }
+                ListNode currentNode = head;
+                while(currentNode != null && currentNode.next != null)
+                {
+                    if(currentNode.val == currentNode.next.val)
+                    {
+                        currentNode.next = currentNode.next.next;
+                    }
+                    else
+                    {
+                        currentNode = currentNode.next;
+                    }
+                }
+                return head;
             }
-
         }
     }
 
