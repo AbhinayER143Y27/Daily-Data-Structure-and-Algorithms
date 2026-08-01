@@ -1,19 +1,23 @@
-//class Solution {
-//    public int[] dailyTemperatures(int[] temperatures) {
-//        int n = temperatures.length;
-//        int[] answer = new int[n];
-//        Deque<Integer> Stack = new ArrayDeque<>();
-//
-//        for(int i = 0; i < n; i++)
-//        {
-//            int CurrentTemp = temperatures[i];
-//            while( !Stack.isEmpty() && CurrentTemp > temperatures[Stack.peek()])
-//            {
-//                int prevDay = Stack.pop();
-//                answer[prevDay] = i - prevDay;
-//            }
-//            Stack.push(i);
-//        }
-//        return answer;
-//    }
-//}
+package Stack;
+
+import java.util.ArrayDeque;
+import java.util.Deque;
+
+class Solution {
+    public int[] dailyTemperatures(int[] temperatures) {
+        int length = temperatures.length;
+        Deque<Integer> stack = new ArrayDeque<>();
+        int[] answer = new int[length];
+
+        for(int i = 0; i < temperatures.length; i++)
+        {
+            while(!stack.isEmpty() && temperatures[i] > temperatures[stack.peek()])
+            {
+                int value = stack.pop();
+                answer[value] = i - value;
+            }
+            stack.push(i);
+        }
+        return answer;
+    }
+}
