@@ -14,12 +14,7 @@ public class ThreeEightSeven {
 
             for(int i = 0; i < s.length(); i++)
             {
-                int value = 0;
-                if(map.containsKey(s.charAt(i)))
-                {
-                    value = map.get(s.charAt(i));
-                }
-                if(value == 1)
+                if(map.get(s.charAt(i)) == 1)
                 {
                     return i;
                 }
@@ -27,4 +22,23 @@ public class ThreeEightSeven {
             return -1;
         }
     }
+    // This one is for the array way answer
+    /*class Solution {
+    public int firstUniqChar(String s) {
+        int[] count = new int[26];
+        for(char ch : s.toCharArray())
+        {
+            count[ch - 'a']++;
+        }
+
+        for(int i = 0; i < s.length(); i++)
+        {
+            if(count[s.charAt(i) - 'a'] == 1)
+            {
+                return i;
+            }
+        }
+        return -1;
+    }
+}*/
 }
